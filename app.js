@@ -10,7 +10,7 @@ app.use(morgan('combined'));
 //เอาไว้จัดการกับ request
 app.get("/",(req,res) =>{
 
-    res.send('Hello NODEJSsss');
+    res.send('Hello NODEJS');
 
 })
 
